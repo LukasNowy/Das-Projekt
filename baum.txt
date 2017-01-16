@@ -1,0 +1,5 @@
+Auflistung der Ordnerpfade fr Volume Die_schnelle_SSD
+Volumeseriennummer : 00000047 26D9:BA47
+C:.
+Es sind keine Unterordner vorhanden 
+

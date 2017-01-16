@@ -1,0 +1,11 @@
+ Datentr„ger in Laufwerk C: ist Die_schnelle_SSD
+ Volumeseriennummer: 26D9-BA47
+
+ Verzeichnis von C:\Users\Treemon\Das-Projekt
+
+16.01.2017  15:07    <DIR>          .
+16.01.2017  15:07    <DIR>          ..
+16.01.2017  15:07               142 baum.txt
+16.01.2017  15:07                 0 verzei.txt
+               2 Datei(en),            142 Bytes
+               2 Verzeichnis(se), 56.850.812.928 Bytes frei
