@@ -1,0 +1,13 @@
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 9C51-0271
+
+ Verzeichnis von C:\Users\schueler\Das-Projekt
+
+16.01.2017  15:20    <DIR>          .
+16.01.2017  15:20    <DIR>          ..
+16.01.2017  15:13               142 baum.txt
+16.01.2017  15:20               133 baumi.txt
+16.01.2017  15:13               417 verzei.txt
+16.01.2017  15:26                 0 verziiii.txt
+               4 Datei(en),            692 Bytes
+               2 Verzeichnis(se), 436.024.934.400 Bytes frei
